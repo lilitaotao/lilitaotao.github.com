@@ -1,0 +1,25 @@
+.col-1 {width: 8.33%;float:left;height:20px;}
+.col-2 {width: 16.66%;float:left;height:20px;}
+.col-3 {width: 25%;float:left;}
+.col-4 {width: 33.33%;float:left;}
+.col-5 {width: 41.66%;float:left;}
+.col-6 {width: 50%;float:left;height:20px;}
+.col-7 {width: 58.33%;float:left;height:20px;}
+.col-8 {width: 66.66%;float:left;height:20px;}
+.col-9 {width: 75%;float:left;}
+.col-10 {width: 83.33%;float:left;}
+.col-11 {width: 91.66%;float:left;height:20px;}
+.col-12 {width: 100%;float:left;height:35px;}
+.row {overflow:hidden;}
+a{color:#000000;text-decoration:none;font-weight:bold;font-size:3px;}
+.h1 {text-align:center}
+.h2 {text-align:left}
+.h3 {text-align:right;}
+.in-1{width:480px;height:30px;line-height:30px;}
+a:hover{color:red;}
+.back-1{border:1 solid 30px;line-height:30px;
+background-image:url(./3.png); background-repeat:repeat-x;}
+.h-1{color:#ffffff;}
+.dis{display:inline;}
+.size-1{font-size:20px;font-weight:bolder;}
+.style-1{font-style:叶根友行书(繁)08;}

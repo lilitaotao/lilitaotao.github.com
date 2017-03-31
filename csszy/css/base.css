@@ -1,0 +1,37 @@
+.row{overflow:hidden;}
+.col-1 {width: 8.33%;float:left;}
+.col-2 {width: 16.66%;float:left;}
+.col-3 {width: 25%;float:left;}
+.col-4 {width: 33.33%;float:left;}
+.col-5 {width: 41.66%;float:left;}
+.col-6 {width: 50%;float:left;}
+.col-7 {width: 58.33%;float:left;}
+.col-8 {width: 66.66%;float:left;}
+.col-9 {width: 75%;float:left;}
+.col-10 {width: 83.33%;float:left;}
+.col-11 {width: 91.66%;float:left;}
+.col-12 {width: 100%;float:left;}
+/*导航第一部分*/
+		*{margin:0;padding:0;font-size:12px;text-decoration:none;
+		list-style:none;font-family: 微软雅黑,黑体,宋体;color:#414141;}
+		.styl{list-style:none;overflow:hidden;}
+		.styl li{float:left;margin:10px;}
+		.styl li a{color:#b7b7b7;}
+		.row-1{list-style:none;overflow:hidden;}
+		.row-1 li{float:left;margin:10px;}
+		.row-1 li a{color:#b7b7b7;}
+		.box{width:1024px;margin:0 auto;}
+		 .back{background:#01204f;}
+
+		 /*第二部分导航*/
+	.styl li a:hover{color:#ffffff;}
+	.nbs2 li a:hover{color:#ffffff;}
+		.nbs1{margin:20px;}
+		.nbs{display:block;line-height:110px;}
+		.nbs li a{font-size:15px;color:#6a6a6a;}
+		.nbs li a:hover{color:#ff6700;}
+		input{width:244px;height:52px;position:absolute;right:112px;top:81px;} 
+		.m3{width:53px;height:53px;
+				position:absolute;right:60px;top:80px;
+				background:#ffffff;font-size:30px;}
+				button:hover{background:#ff6700;color:#ffffff;}
